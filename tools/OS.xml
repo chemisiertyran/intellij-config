@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolSet name="OS">
+  <tool name="Reveal in iTerm" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/osascript" />
+      <option name="PARAMETERS" value="$USER_HOME$/bin/launchTerminalAndChangeDir.scpt $FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
+

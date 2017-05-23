@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolSet name="Maven">
+  <tool name="Content package install" description="Runs &quot;mvn clean install content-package:install&quot;" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mvn" />
+      <option name="PARAMETERS" value="clean install content-package:install" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Sling install" description="Runs &quot;mvn clean install sling:install&quot;" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mvn" />
+      <option name="PARAMETERS" value="clean install sling:install" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Sling uninstall" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mvn" />
+      <option name="PARAMETERS" value="sling:uninstall" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
+

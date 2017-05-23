@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.css, *.less</mask>
+      <mask>.content.xml</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.css</mask>
+      <mask>dialog.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

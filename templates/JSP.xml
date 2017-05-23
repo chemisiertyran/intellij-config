@@ -1,0 +1,7 @@
+<templateSet group="JSP">
+  <template name="x" value="%&gt;&lt;%&#10;&#10;" description="New line" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
