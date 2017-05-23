@@ -4,7 +4,7 @@
     <property name="created">2017-05-23T14:26:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-05-23T16:24:04</property>
+    <property name="modified">2017-05-23T16:35:41</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -650,7 +650,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="252b39" />
+        <option name="BACKGROUND" value="713d3e" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1770,6 +1770,12 @@
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Unused entry">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="VELOCITY_KEYWORD">
