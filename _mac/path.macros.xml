@@ -1,6 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="Date" value="0" />
-    <macro name="MAVEN_REPOSITORY" value="/Users/meyer/.m2/repository" />
-  </component>
-</application>
