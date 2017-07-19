@@ -248,4 +248,7 @@
   <action id="Tool_Vlt_Update --smart">
     <keyboard-shortcut first-keystroke="ctrl meta v" second-keystroke="y" />
   </action>
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
 </keymap>
