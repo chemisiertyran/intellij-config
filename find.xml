@@ -6,13 +6,11 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.content.xml</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.css</mask>
       <mask>dialog.xml</mask>
       <mask>*.js</mask>
-      <mask>*.xml</mask>
       <mask>f</mask>
       <mask>fi</mask>
       <mask>filter</mask>
@@ -36,6 +34,8 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
