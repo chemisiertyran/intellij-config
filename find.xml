@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*IT.java" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
-      <mask>£.j</mask>
       <mask>£.ja</mask>
       <mask>£.java</mask>
       <mask>$.java</mask>
@@ -23,20 +22,21 @@
       <mask>pom.xml</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.htmml</mask>
       <mask>*.htmm</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*</mask>
       <mask>*IT</mask>
       <mask>*IT.</mask>
       <mask>*IT.j</mask>
       <mask>*IT.ja</mask>
       <mask>*IT.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
