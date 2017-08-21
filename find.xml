@@ -5,13 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <recentFileMasks>
-      <mask>filter.</mask>
-      <mask>filter.x</mask>
-      <mask>filter.xm</mask>
-      <mask>filter.xml</mask>
-      <mask>£</mask>
-      <mask>£.</mask>
       <mask>£.j</mask>
       <mask>£.ja</mask>
       <mask>£.java</mask>
@@ -36,6 +31,12 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*IT</mask>
+      <mask>*IT.</mask>
+      <mask>*IT.j</mask>
+      <mask>*IT.ja</mask>
+      <mask>*IT.java</mask>
     </recentFileMasks>
   </component>
 </application>
