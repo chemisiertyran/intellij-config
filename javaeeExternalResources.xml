@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://sling.apache.org/jcr/sling/1.0" />
+    <ignored-resource url="http://www.day.com/jcr/cq/1.0" />
+    <ignored-resource url="http://www.jcp.org/jcr/1.0" />
+    <ignored-resource url="http://www.jcp.org/jcr/nt/1.0" />
+  </component>
+</application>
