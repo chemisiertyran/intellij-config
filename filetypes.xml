@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.vlt;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="ContribResourcePicker.java" type="CLASS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="cover" type="Images" />
       <mapping ext="js6" type="JavaScript" />
       <mapping pattern="CUGServlet.java" type="PLAIN_TEXT" />
