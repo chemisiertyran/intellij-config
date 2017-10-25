@@ -6,7 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>pom.xml</mask>
       <mask>.xml</mask>
@@ -23,8 +23,6 @@
       <mask>*.jo</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.xm</mask>
       <mask>*.js</mask>
       <mask>$Date$</mask>
@@ -32,12 +30,14 @@
       <mask>*.k</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
