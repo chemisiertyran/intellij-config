@@ -8,9 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>.xml</mask>
       <mask>*.htmml</mask>
       <mask>*.htmm</mask>
       <mask>*.htm</mask>
@@ -30,16 +29,17 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.jas</mask>
-      <mask>*.ja</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jaj</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
