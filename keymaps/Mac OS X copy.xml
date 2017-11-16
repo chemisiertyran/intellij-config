@@ -252,6 +252,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta v" second-keystroke="y" />
   </action>
   <action id="XDebugger.NewWatch">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
 </keymap>
