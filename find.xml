@@ -8,15 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="filter.xml" />
     <recentFileMasks>
-      <mask>*.htmml</mask>
-      <mask>*.htmm</mask>
-      <mask>*.htm</mask>
-      <mask>*IT</mask>
-      <mask>*IT.</mask>
-      <mask>*IT.j</mask>
-      <mask>*IT.ja</mask>
-      <mask>*IT.java</mask>
       <mask>*/</mask>
       <mask>*.jsp</mask>
       <mask>*.jo</mask>
@@ -39,6 +32,14 @@
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>f</mask>
+      <mask>fi</mask>
+      <mask>fil</mask>
+      <mask>filte</mask>
+      <mask>filter</mask>
+      <mask>filter.</mask>
+      <mask>filter.x</mask>
+      <mask>filter.xml</mask>
     </recentFileMasks>
   </component>
 </application>
