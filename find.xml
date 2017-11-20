@@ -8,15 +8,10 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="filter.xml" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*/</mask>
-      <mask>*.jsp</mask>
-      <mask>*.jo</mask>
-      <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>$Date$</mask>
-      <mask>*</mask>
       <mask>*.k</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -26,7 +21,6 @@
       <mask>*.jaj</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -40,6 +34,12 @@
       <mask>filter.</mask>
       <mask>filter.x</mask>
       <mask>filter.xml</mask>
+      <mask>*</mask>
+      <mask>*/</mask>
+      <mask>*/j</mask>
+      <mask>*/js</mask>
+      <mask>*js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
