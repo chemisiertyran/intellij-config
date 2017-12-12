@@ -6,12 +6,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>f</mask>
-      <mask>fi</mask>
       <mask>fil</mask>
       <mask>filte</mask>
       <mask>filter</mask>
@@ -37,6 +33,11 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.h</mask>
+      <mask>*.hm</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
