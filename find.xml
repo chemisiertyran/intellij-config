@@ -6,28 +6,19 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*/</mask>
-      <mask>*/j</mask>
-      <mask>*/js</mask>
-      <mask>*js</mask>
-      <mask>*.jas</mask>
-      <mask>*.xa</mask>
       <mask>*.xmla</mask>
       <mask>*I.java</mask>
       <mask>*IT.java</mask>
       <mask>*ITjava</mask>
       <mask>*Ijava</mask>
       <mask>*java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.hm</mask>
       <mask>*.jym</mask>
       <mask>*.jy</mask>
       <mask>*.htù</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xmll</mask>
@@ -36,8 +27,17 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.s</mask>
+      <mask>*.as</mask>
+      <mask>*.avas</mask>
+      <mask>*.kja</mask>
+      <mask>*.kjava</mask>
+      <mask>*.kjav</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
