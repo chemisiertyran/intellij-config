@@ -6,6 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.s</mask>
@@ -28,7 +29,6 @@
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
@@ -37,6 +37,7 @@
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
