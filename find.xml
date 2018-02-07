@@ -6,7 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.s</mask>
       <mask>*.as</mask>
@@ -34,10 +34,10 @@
       <mask>*.xm</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.js</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.jsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
