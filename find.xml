@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Files in Previous Search Result" />
-    <option name="defaultScopeName" value="Files in Previous Search Result" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.avas</mask>
