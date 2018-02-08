@@ -35,8 +35,8 @@
       <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.html</mask>
+      <mask>*.xml</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
