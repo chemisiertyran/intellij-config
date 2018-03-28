@@ -8,6 +8,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.avas</mask>
@@ -36,9 +37,9 @@
       <mask>*.jav</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
