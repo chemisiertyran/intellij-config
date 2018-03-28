@@ -206,6 +206,9 @@
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ToggleQuotes">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
   <action id="Tool_Grunt_Grunt">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
