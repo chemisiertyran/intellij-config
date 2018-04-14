@@ -4,7 +4,7 @@
     <property name="created">2017-05-23T14:26:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-06-01T09:19:01</property>
+    <property name="modified">2017-10-30T14:05:42</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -24,7 +24,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="273158" />
+    <option name="CARET_ROW_COLOR" value="204d58" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -59,7 +59,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="1f6148" />
+    <option name="SELECTION_BACKGROUND" value="196126" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
@@ -126,9 +126,7 @@
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="715b71" />
-      </value>
+      <value />
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
@@ -423,7 +421,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="66818d" />
+        <option name="FOREGROUND" value="57a653" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -434,7 +432,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="1a7167" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -628,11 +626,6 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FOREGROUND" value="798891" />
-      </value>
-    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
@@ -793,16 +786,6 @@
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
-      </value>
-    </option>
-    <option name="JAVA_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="505c63" />
-      </value>
-    </option>
-    <option name="JAVA_DOC_TAG">
-      <value>
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
@@ -1092,9 +1075,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="715b71" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -1105,6 +1088,12 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="82b1ff" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

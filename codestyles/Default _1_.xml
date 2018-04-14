@@ -11,6 +11,21 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="org" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
   <option name="JSP_PREFER_COMMA_SEPARATED_IMPORT_LIST" value="true" />
   <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
   <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -31,8 +46,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
-    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">

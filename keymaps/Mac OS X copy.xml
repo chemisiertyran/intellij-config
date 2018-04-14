@@ -52,7 +52,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift meta colon" />
@@ -98,8 +98,11 @@
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -203,6 +206,9 @@
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ToggleQuotes">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
   <action id="Tool_Grunt_Grunt">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
@@ -247,5 +253,8 @@
   </action>
   <action id="Tool_Vlt_Update --smart">
     <keyboard-shortcut first-keystroke="ctrl meta v" second-keystroke="y" />
+  </action>
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
 </keymap>

@@ -1,32 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.css, *.less</mask>
-      <mask>.content.xml</mask>
+      <mask>*.avas</mask>
+      <mask>*.kja</mask>
+      <mask>*.kjava</mask>
+      <mask>*.kjav</mask>
+      <mask>$Date$</mask>
+      <mask>£</mask>
+      <mask>`</mask>
+      <mask>$</mask>
+      <mask>ù</mask>
+      <mask>*/</mask>
+      <mask>*</mask>
+      <mask>*.co</mask>
+      <mask>*.con</mask>
+      <mask>*.confi</mask>
+      <mask>*.config</mask>
+      <mask>*.ks</mask>
+      <mask>*.k</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xl</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.css</mask>
-      <mask>dialog.xml</mask>
-      <mask>*.js</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>f</mask>
-      <mask>fi</mask>
-      <mask>filter</mask>
-      <mask>filter.</mask>
-      <mask>filter.x</mask>
-      <mask>filter.xm</mask>
-      <mask>filter.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
