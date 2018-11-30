@@ -4,16 +4,15 @@
     <extensionMap>
       <mapping pattern="ContribResourcePicker.java" type="CLASS" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="cover" type="Images" />
       <mapping ext="js6" type="JavaScript" />
       <mapping pattern="CUGServlet.java" type="PLAIN_TEXT" />
       <mapping pattern="etc/designs/it-site/simple-design" type="PLAIN_TEXT" />
       <mapping pattern="Navigation.js" type="PLAIN_TEXT" />
       <mapping pattern=".vlt" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="PageContainer" type="PLAIN_TEXT" />
       <mapping pattern="PageContainer.js" type="PLAIN_TEXT" />
       <mapping pattern=".content.xml" type="XML" />
+      <mapping pattern="cover" type="Images" />
     </extensionMap>
   </component>
 </application>
