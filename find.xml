@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ui.apps/src/main/content/jcr_root/apps/esricommerce/install/esri.core-2.1.5.jar [esri-sites.ui.apps]'" />
-    <option name="defaultScopeName" value="File '.../ui.apps/src/main/content/jcr_root/apps/esricommerce/install/esri.core-2.1.5.jar [esri-sites.ui.apps]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../ui.apps/src/main/content/jcr_root/apps/esricommerce/install/esri.core-2.1.5.jar [esri-sites.ui.apps]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
